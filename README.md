@@ -4,7 +4,7 @@ Frontend for a plant nursery web app that allows users to browse, search, and pu
 
 ---
 
-## 🌱 Features
+## 🌱 The Features
 
 - 🌿 View plant & pot collections
 - 🔍 Search plants by name
